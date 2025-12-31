@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Abin George
+# Hi, I’m Abin Binoy George
 
 ## 🎓 Current
 - **Ph.D. Candidate, Computer Engineering — Boston University** 🤖  
