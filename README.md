@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I’m Abin George
 
-<!--
-**abingeorge07/abingeorge07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Current
+- **Ph.D. Candidate, Computer Engineering — Boston University** 🤖  
+  Researching **robot–hardware co-design**, studying how compute platforms shape real-time control performance and energy efficiency for legged robots.
 
-Here are some ideas to get you started:
+## 🔬 Previous Research Experience
+- **Peaclab, Boston University** ⚡  
+  Built embedded edge-computing platforms for cloud-function execution on single-board computers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **KABlab, Boston University** 🦾  
+  Designed autonomous robotic manipulation systems and applied genetic algorithms for closed-loop materials discovery.
+
+## 🏫 Education
+- **M.S. in Computer Engineering** — Boston University 🎓
+- **B.S. in Computer Engineering & Mechanical Engineering** — Boston University🏅
+
+## 🚀 Research Interests
+- Robot–hardware co-design  
+- Legged locomotion and model-based control  
+- Reinforcement learning for embodied systems  
+- Physics-based simulation and optimization  
+- Computer architecture for robotics
