@@ -1,14 +1,14 @@
 # Hi, I’m Abin Binoy George
 
 ## 🎓 Current
-- **Ph.D. Candidate, Computer Engineering — Boston University** 🤖  
+- **Robomorphic Computing Lab, Ph.D. Candidate, Computer Engineering — Boston University** 🤖  
   Researching **robot–hardware co-design**, studying how compute platforms shape real-time control performance and energy efficiency for legged robots.
 
 ## 🔬 Previous Research Experience
-- **Peaclab, Boston University** ⚡  
+- **Peaclab, Undergrad Researcher, Boston University** ⚡  
   Built embedded edge-computing platforms for cloud-function execution on single-board computers.
 
-- **KABlab, Boston University** 🦾  
+- **KABlab, Undergrad Researcher, Boston University** 🦾  
   Designed autonomous robotic manipulation systems and applied genetic algorithms for closed-loop materials discovery.
 
 ## 🏫 Education
